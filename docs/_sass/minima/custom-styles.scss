@@ -1,0 +1,38 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+.social-and-image {
+    display: flex;
+    align-items: center;
+  }
+  
+.small-footer-image {
+    background-color: $text-color;
+    mask-image: url('footer-bg-black.svg');
+    mask-repeat: no-repeat;
+    mask-size: contain;    
+    width: 102px;
+    height: 48px;
+    margin-left: 10px;
+  }
+
+
+.site-footer
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+  }
+
+.site-footer
+.wrapper
+.footer-col {
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 0px;
+  }
+
+.contact-list {
+    white-space: nowrap;
+    margin-bottom: 0px;
+  }
