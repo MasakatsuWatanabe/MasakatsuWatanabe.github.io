@@ -19,6 +19,7 @@ For business inquiries, please contact me [here](mailto:contact@unslow.com).
 <img src="{{site.baseurl}}/assets/images/mech01.png" alt="Mech" width="200">
 <img src="{{site.baseurl}}/assets/images/cto00.jpg" alt="CTO(Chinchilla the Technical Officer)" width="200">
 </center>
+<br>
 <center>
 <img src="{{site.baseurl}}/assets/images/12examples.jpg" alt="Unity Shader-Tutorials" width="480">
 </center>
