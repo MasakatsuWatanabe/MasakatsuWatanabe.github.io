@@ -26,7 +26,7 @@ For business inquiries, please contact me [here](mailto:contact@unslow.com).
 
 ## 渡辺 雅勝 (Masakatsu Watanabe) 
 一人ゲーム制作ユニット「STUDIO-UNSLOW」代表。  
-2000年よりフリーランスの開発者として活動中。  
+2001年よりフリーランスの開発者として活動中。  
 家庭用ゲームコンソールを中心にフレームワークの作成、ゲームデザインのサポート、CI/CDまで、ゲーム制作の技術全般を扱います。  
 
 現在は主にゲームエンジンUnityを使用。  
