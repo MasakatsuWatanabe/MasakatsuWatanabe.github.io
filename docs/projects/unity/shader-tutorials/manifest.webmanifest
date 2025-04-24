@@ -1,6 +1,6 @@
 {
-    "name": "Shader Tutorials",
-    "short_name": "Shader Tutorials",
+    "name": "Shader-Tutorials",
+    "short_name": "Shader-Tutorials",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
